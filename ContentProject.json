@@ -1,0 +1,14 @@
+﻿{ 
+  "contentRoots": [ 
+    "API"
+  ], 
+
+  "Metadata": { 
+    "\\": {
+      "ms.locale": "en-us",
+      "ms.version": "ALM",
+      "MSHAttr.msprod":"ms.prod:ALM",
+      "ms.prodfamily": "ALM"
+    }
+  } 
+} 

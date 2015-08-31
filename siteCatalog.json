@@ -1,0 +1,9 @@
+{
+    "/Library/vs/alm/Overview": "Library/vs/alm/Overview/center.json",
+    "/Library/vs/alm/TFS": "Library/vs/alm/TFS/center.json",
+    "/Library/vs/alm/Build": "Library/vs/alm/Build/center.json",
+    "/Library/vs/alm/Code": "Library/vs/alm/Code/center.json",
+    "/Library/vs/alm/work": "Library/vs/alm/Work/center.json",
+    "/Library/vs/alm/Release": "Library/vs/alm/Release/center.json",
+    "/Library/vs/alm/Report": "Library/vs/alm/Report/center.json"
+}

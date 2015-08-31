@@ -1,0 +1,27 @@
+*,oa-toc-external:vsalm,http://msdn.microsoft.com/en-us/library/fda2bad5(v=vs.140).aspx
+**,oa-toc-external:whats-new,https://msdn.microsoft.com/en-us/Library/vs/alm/overview/whats-new
+**,oa-toc-external:code,https://msdn.microsoft.com/en-us/Library/vs/alm/code/overview
+**,oa-toc-external:build, https://msdn.microsoft.com/en-us/Library/vs/alm/build/overview
+**,oa-toc-external:work,https://msdn.microsoft.com/en-us/Library/vs/alm/work/overview
+**,oa-toc-external:test,http://msdn.microsoft.com/en-us/library/ms182409(v=vs.140).aspx
+**,oa-toc-external:release,http://msdn.microsoft.com/en-us/library/dn217874(v=vs.140).aspx
+**,oa-toc-external:design,http://msdn.microsoft.com/en-us/library/57b85fsc(v=vs.140).aspx
+**,oa-toc-external:report,https://msdn.microsoft.com/en-us/Library/vs/alm/report/overview
+**,oa-toc-external:install,http://msdn.microsoft.com/Library/vs/alm/TFS/setup/overview
+**,overview.md
+***,oa-toc-container:set-up
+****,setup/overview.md
+****,setup/single-server.md
+****,setup/dual-server.md
+****,setup/multiple-server.md
+***,oa-toc-container:upgrade
+****,upgrade/upgrade.md
+****,upgrade/pre-upgrade.md
+****,upgrade/pre-production.md
+****,upgrade/express.md
+****,upgrade/walkthrough.md
+***,oa-toc-container:administer
+****,administer/requirements.md
+****,administer/clean-up-data.md
+****,administer/project-rename.md
+**,oa-toc-external:reference,http://msdn.microsoft.com/en-us/library/dd236913(v=vs.140).aspx
