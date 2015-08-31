@@ -1,7 +1,9 @@
 {
   "locales": [ "zh-cn", "de-de" ],
   "files": [
+	"Library/vs/alm/Build/**/*.md",
 	"Library/vs/alm/Build/*.md",
+	"/Library/vs/alm/Build/_img/**/*"，
 	"/Library/vs/alm/Build/_img/*"
   ],
   "includeDependencies": true,
