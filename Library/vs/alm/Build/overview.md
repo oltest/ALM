@@ -10,7 +10,7 @@ Toc: show
 ![Customizable. Cross Platform.](_img/taskbanner.png)<br/>
 
 <div style="background-color:#e4c1ee; padding:7px; margin:10px">
-We've built a brand new scriptable build system that's web-based and cross-platform. We believe all new and most existing customers should use it instead of the XAML build system. <strong>[Tell me more.](feature-overview.md)</strong>
+We've built a brand new scriptable build system that's web-based and cross-platform. We believe all new and most existing customers should use it instead of the XAML build system. <b>[Tell me more.](feature-overview.md)</b>
 </div>
 
 ## Build agents
