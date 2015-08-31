@@ -14,6 +14,8 @@ Build for Windows, iOS, Android, Java (Ant, Maven, or Gradle), or Linux using th
 
 ![Xplat](_img/overview/add-build-steps.png)
 
+![BldVNext](_img/5star2.png)
+
 ## Easy customization 
 
 Edit in the web and leverage existing knowledge of popular script 
