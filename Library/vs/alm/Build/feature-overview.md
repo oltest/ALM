@@ -4,7 +4,7 @@ toc: show
 Parent: ./index.md
 ms.ContentId: 2F76AECB-D1A4-4E29-9956-7C7A75D89B74
 
-# Test Overview of Team Foundation Build 2015
+# Overview of Team Foundation Build 2015
 
 No matter what tools you use. In whatever language you prefer. Team Foundation Build (TFBuild) 2015 builds your app, your way, for your platforms. Just open your web browser to tell us how you want it done.
 
