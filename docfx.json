@@ -1,0 +1,23 @@
+﻿{
+  "build": {
+    "content":
+      [
+        {
+          "files": ["**/**.md"],
+          "cwd": "openpublishing/corefx"
+        }
+      ],
+    "resource": [
+        {
+          "files": ["**/images/**"],
+          "cwd": "openpublishing/corefx"
+        }
+    ],
+    "externalReference": [
+    ],
+    "globalMetadata": {
+      "Ms.Locale": "en-us"
+    },
+    "template": "op.html"
+  }
+}
