@@ -1,7 +1,8 @@
 {
   "locales": [ "zh-cn", "de-de" ],
   "files": [
-	"openpublishing/**/*.md"
+	"*.md",
+        "**/*.md"
   ],
   "includeDependencies": true,
   "autoPush": true
