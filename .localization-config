@@ -2,7 +2,8 @@
   "locales": [ "zh-cn", "de-de" ],
   "files": [
         "*.md",
-        "**/*.md"
+        "**/*.md", 
+        "**/**/*.md"
   ],
   "includeDependencies": true,
   "autoPush": true
